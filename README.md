@@ -9,6 +9,7 @@
 * Glide
 * Internal Storage
 * ListView
+* Volley
 
 ### Splash Screen
 <img src="https://raw.githubusercontent.com/heri1876/Pemilihan-Osis/master/Assets/UI/1.%20SplashScreen/1.%20SplashScreen.png" alt="Splash Screen" width="250">
