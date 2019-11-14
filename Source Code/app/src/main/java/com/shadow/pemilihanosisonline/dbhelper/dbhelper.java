@@ -15,8 +15,8 @@ public class dbhelper extends SQLiteOpenHelper {
 
     private static final int DATABASE_VERSION = 1;
 
-    data data = new data();
-    ArrayList<data> dataArray = new ArrayList<>();
+    private data data = new data();
+    private ArrayList<data> dataArray = new ArrayList<>();
 
     static final String DATABASE_NAME = "isi.db";
 

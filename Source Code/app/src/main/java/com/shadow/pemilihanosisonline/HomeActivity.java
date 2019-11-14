@@ -20,15 +20,15 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Scanner;
 
-public class HomeActivity extends AppCompatActivity implements View.OnClickListener {
+public class HomeActivity extends AppCompatActivity{
 
     Button keluar;
     TextView namaUser;
 
-    ListView listView;
-    AdapterList adapter;
-    ArrayList<data> dataArray = new ArrayList<>();
-    dbhelper sql = new dbhelper(this);
+    private ListView listView;
+    private AdapterList adapter;
+    private  ArrayList<data> dataArray = new ArrayList<>();
+    private dbhelper sql = new dbhelper(this);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -46,20 +46,16 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         dynamicSize();
         bacafile();
 
-        keluar.setOnClickListener(this);
-
-    }
-
-    @Override
-    public void onClick(View v) {
-        switch (v.getId()) {
-            case R.id.Logout:
+        keluar.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
                 Intent intent = new Intent(HomeActivity.this, LoginActivity.class);
                 startActivity(intent);
                 overridePendingTransition(R.anim.moveright, R.anim.movehelper);
                 finish();
-                break;
-        }
+            }
+        });
+
     }
 
     private void tampilData() {
@@ -84,6 +80,7 @@ public class HomeActivity extends AppCompatActivity implements View.OnClickListe
         adapter.notifyDataSetChanged();
     }
 
+    //Membuat
     void dynamicSize(){
         int totalHeight = 0;
 

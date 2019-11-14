@@ -28,7 +28,7 @@ public class SplashActivity extends AppCompatActivity {
     Animation smalltobig, moveleft, movehelper;
     private String url = "https://sqlitedatanase.000webhostapp.com/";
 
-    dbhelper SQLite = new dbhelper(this);
+    private dbhelper SQLite = new dbhelper(this);
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {

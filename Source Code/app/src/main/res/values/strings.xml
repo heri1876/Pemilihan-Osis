@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Pemilihan Osis Online</string>
+    <string name="visi_dan_misi">Visi dan Misi</string>
+    <string name="visi">Visi :</string>
+    <string name="misi">Misi :</string>
+    <string name="selamat_datang">Selamat datang \n Silahkan login</string>
+    <string name="masukan_nik">Masukan NIK</string>
+    <string name="masukan_password">Masukan Password</string>
+    <string name="end">Kamu sudah memilih calon osis Terimakasih</string>
 </resources>

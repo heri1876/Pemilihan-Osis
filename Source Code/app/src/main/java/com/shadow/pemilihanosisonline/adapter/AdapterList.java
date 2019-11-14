@@ -43,7 +43,6 @@ public class AdapterList extends ArrayAdapter<data> {
         super(context, resource);
         this.context = context;
         this.resource = resource;
-
     }
 
     @Override

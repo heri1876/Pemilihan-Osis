@@ -13,8 +13,7 @@
         <LinearLayout
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:orientation="vertical"
-            android:layout_weight="0.1">
+            android:orientation="vertical">
 
             <RelativeLayout
                 android:layout_width="match_parent"
@@ -39,7 +38,6 @@
                 android:layout_height="wrap_content"
                 android:layout_marginTop="-170dp"
                 android:layout_marginBottom="10dp"
-                android:dividerHeight="2px"
                 tools:listitem="@layout/calon_row" />
 
             <Button
@@ -50,7 +48,6 @@
                 android:layout_marginTop="5dp"
                 android:layout_marginBottom="5dp"
                 android:background="@drawable/ripple_effect"
-                android:clickable="true"
                 android:fontFamily="@font/segoeuib"
                 android:text="keluar"
                 android:textColor="@android:color/white"
