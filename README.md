@@ -5,6 +5,8 @@
 ### Splash Screen
 ![Splash Screen](https://raw.githubusercontent.com/heri1876/Pemilihan-Osis/master/Assets/UI/1.%20SplashScreen/1.%20SplashScreen.png | width=100)
 
+<img src="https://raw.githubusercontent.com/heri1876/Pemilihan-Osis/master/Assets/UI/1.%20SplashScreen/1.%20SplashScreen.png" alt="Splash Screen" width="512" height="768">
+
 ### Login Page
 ![Login Page](https://raw.githubusercontent.com/heri1876/Pemilihan-Osis/master/Assets/UI/2.%20Login%20Page/2.%20Login%20Page.png)
 
