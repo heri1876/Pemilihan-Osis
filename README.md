@@ -1,6 +1,14 @@
-# Pemilihan Osis secara online.
+# **Dokumentasi Pemilihan Osis secara online. **
 
-## **Dokumentasi**
+> Di buat untuk menyelesaikan persyaratan sertifikasi LSP Junior Mobile Programmer pada 26 Agustus di Politeknik Negeri Jakarta.
+> Mohon maaf apa bila penulisan code belum kurang rapih dikarenakan pada saat membuat aplikasi masih awal-awal belajar :D.
+
+## Fitur
+
+* SQLiteDatabase
+* Glide
+* Internal Storage
+* ListView
 
 ### Splash Screen
 <img src="https://raw.githubusercontent.com/heri1876/Pemilihan-Osis/master/Assets/UI/1.%20SplashScreen/1.%20SplashScreen.png" alt="Splash Screen" width="250">
