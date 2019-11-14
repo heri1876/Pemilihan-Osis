@@ -5,7 +5,7 @@
 ### Splash Screen
 <img src="https://raw.githubusercontent.com/heri1876/Pemilihan-Osis/master/Assets/UI/1.%20SplashScreen/1.%20SplashScreen.png" alt="Splash Screen" width="250">
 
-* Mengambil data dengan Json nama ketua & wakil calon osis, foto, Visi & Misi dari database online kemudian di simpan ke database SQLite
+* Mengambil data nama ketua & wakil calon osis, foto, Visi & Misi dengan Json dari database online kemudian di simpan ke database SQLite
 
 ### Login Page
 <img src="https://raw.githubusercontent.com/heri1876/Pemilihan-Osis/master/Assets/UI/2.%20Login%20Page/2.%20Login%20Page.png" alt="Login Page" width="250">
