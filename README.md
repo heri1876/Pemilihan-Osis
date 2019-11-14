@@ -1,8 +1,17 @@
-# **Dokumentasi Pemilihan Osis secara online. **
+# Dokumentasi Pemilihan Osis secara online.
 
 > Di buat untuk menyelesaikan persyaratan sertifikasi LSP Junior Mobile Programmer pada 26 Agustus di Politeknik Negeri Jakarta.
 > Mohon maaf apa bila penulisan code belum kurang rapih dikarenakan pada saat membuat aplikasi masih awal-awal belajar :D.
 
+## User Test
+* Belum memilih :
+  nik : 1001
+  password : test
+  
+* Sudah memilih :
+  nik : 1002
+  password : test
+  
 ## Fitur
 
 * SQLiteDatabase
