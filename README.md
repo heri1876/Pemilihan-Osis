@@ -3,7 +3,7 @@
 ## **Dokumentasi**
 
 ### Splash Screen
-![Splash Screen](https://raw.githubusercontent.com/heri1876/Pemilihan-Osis/master/Assets/UI/1.%20SplashScreen/1.%20SplashScreen.png =256x)
+![Splash Screen](https://raw.githubusercontent.com/heri1876/Pemilihan-Osis/master/Assets/UI/1.%20SplashScreen/1.%20SplashScreen.png =250x)
 
 ### Login Page
 ![Login Page](https://raw.githubusercontent.com/heri1876/Pemilihan-Osis/master/Assets/UI/2.%20Login%20Page/2.%20Login%20Page.png)
